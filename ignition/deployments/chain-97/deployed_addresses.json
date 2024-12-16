@@ -1,0 +1,7 @@
+{
+  "BetGameFactoryModule#BetGameFactory": "0x54CBA86817f5cBD315de11a1EA2B4d37e13423dD",
+  "DiceShakeModule#DiceShake": "0x51621CfaF4CF54EFe185A93b0b0931c83D500b53",
+  "ReferralModule#Referral": "0x52194A9668c4a9ba7e0B3706E706B731b113E401",
+  "DiceShakeStakingModule#diceShakeStaking": "0xb21Be098728BcEAfC5acD900eBB219303AFa5713",
+  "DiceShakeVRFModule#diceShakeVRF": "0xf187dC4A165e2bD46D5b77C30e7f6Bd77a8bEc6a"
+}

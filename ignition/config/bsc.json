@@ -1,0 +1,41 @@
+{
+    "VRF": {
+        "subId": "",
+        "keyHash": "0xcd65a78499993598be303c914c3e37b0103ead6b1f279d1dbfa0ef080e7141a4",
+        "callbackGasLimit": "500000",
+        "requestConfirmations": "3",
+        "vrfCoordinator": "0x9632ADE542f12114f5E5AD4d6F8e47fB993955da"
+    },
+    "Setting": {
+        "FeeAddress": {
+            "charity": "",
+            "platform": ""
+        }
+    },
+    "Raffle": {
+        "verifyAddress": [],
+        "roleAccounts": {
+            "share": [],
+            "address": []
+        },
+        "operators": []
+    },
+    "CoinFlip": {
+        "fee": "350",
+        "jackpotRate": "1000",
+        "minBet": "10000000000000000",
+        "maxBet": "10000000000000000000"
+    },
+    "DiceShake": {
+        "fee": "350",
+        "jackpotRate": "1000",
+        "minBet": "10000000000000000",
+        "maxBet": "10000000000000000000"
+    },
+    "Scratch69": {
+        "fee": "2000",
+        "jackpotRate": "1000",
+        "minBet": "1000000000000000",
+        "maxBet": "1000000000000000000"
+    }
+}
