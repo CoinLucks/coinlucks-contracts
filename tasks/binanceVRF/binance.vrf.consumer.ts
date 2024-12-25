@@ -22,7 +22,7 @@ task("addConsumer", "Add consumer contract to the subscription account").setActi
       await contract.addConsumer(subId, addresses.CoinFlipVRF);
       await contract.addConsumer(subId, addresses.DiceShakeVRF);
       await contract.addConsumer(subId, addresses.Scratch69VRF);
-      // await contract.addConsumer(subId, addresses.RaffleVRF);
+      await contract.addConsumer(subId, addresses.RaffleVRF);
 
       await new Promise((resolve) => setTimeout(resolve, 3000));
 

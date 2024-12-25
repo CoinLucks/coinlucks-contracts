@@ -1,15 +1,15 @@
 {
-  "BetGameFactoryModule#BetGameFactory": "0x99C15c8dCDEf9345e7740c593fA5df61Fa4bD8E1",
-  "DiceShakeModule#DiceShake": "0x2Bff3954d1Af8020Ca73FC16dfBE12B98f5dd38C",
-  "ReferralModule#Referral": "0xAE8794fE674a8519abB023B93a836F542515a61E",
-  "DiceShakeStakingModule#diceShakeStaking": "0xD4CFACBc0c5af3c1a950A0Ec496D9F76e97e03C1",
-  "DiceShakeVRFModule#diceShakeVRF": "0xc6B8068dE0783053C39DB6E6AfDde59edcE80Ba5",
-  "CoinFlipModule#CoinFlip": "0xc38Be75604c74214b64E6a32a8987B674E38b3B6",
-  "CoinFlipStakingModule#coinFlipStaking": "0xf187dC4A165e2bD46D5b77C30e7f6Bd77a8bEc6a",
-  "CoinFlipVRFModule#coinFlipVRF": "0x75258550dB8B63BFD4551dcE2DF01FED717AcdF5",
-  "Scratch69Module#Scratch69": "0xA1c7eeD137BC103AfF5ff4EA3F7021542677618B",
-  "Scratch69StakingModule#scratch69Staking": "0xFb4d157dC7a8484a10A65D9B29f832e2E6A91B02",
-  "Scratch69VRFModule#scratch69VRF": "0xB27b92106bca98cBc076CeD367A55990A7Fde54A",
-  "RaffleModule#RaffleContract": "0x0e3b47139fEF03a960b356fda8CAdb1769E6865e",
-  "RaffleVRFModule#raffleVRF": "0x55e0b5dC43C3076ec0F810898BE42BE74BF225C5"
+  "BetGameFactoryModule#BetGameFactory": "0xb72290e226d091a4b006B50945F649Ed31014f88",
+  "DiceShakeModule#DiceShake": "0xc9f642B913D2772374c5b235B2Fa58d235DB8f0D",
+  "ReferralModule#Referral": "0x5618A7AfF8175218E35eEec7a1C3E8431CABB03c",
+  "DiceShakeStakingModule#diceShakeStaking": "0xDAAD91eeF9066e259Fa63a55463EF14Ee749386b",
+  "DiceShakeVRFModule#diceShakeVRF": "0x03a7700427aFeB190d64400545261DEfD809850b",
+  "CoinFlipModule#CoinFlip": "0x55A5f64215868891521bFe1715D5bAC4c5c530F9",
+  "CoinFlipStakingModule#coinFlipStaking": "0x324640a4ec6d6055fb3b5124763ad15D7618f614",
+  "CoinFlipVRFModule#coinFlipVRF": "0x0412A70B3c6Cf23122Bb75F7A87D80A2BC0562B8",
+  "Scratch69Module#Scratch69": "0x4209bfe46b3118E4d8807Bd06aE918640A6cf179",
+  "Scratch69StakingModule#scratch69Staking": "0x353F5B915b439FB9282422f5C23EfffF9753873d",
+  "Scratch69VRFModule#scratch69VRF": "0x0D9781e0164923e9Ef805Aa17F3db71779041e88",
+  "RaffleModule#RaffleContract": "0x4B6b2BCe6e7c52185d81d2b4B3e15d614228d3fC",
+  "RaffleVRFModule#raffleVRF": "0x4f95573498D071228E443504FaC043421AF31D59"
 }
