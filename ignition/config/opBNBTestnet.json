@@ -24,14 +24,14 @@
         "fee": "200",
         "jackpotRate": "100",
         "streakRate": "50",
-        "minBet": "10000000000000",
+        "minBet": "10000000000000000",
         "maxBet": "10000000000000000000"
     },
     "DiceShake": {
         "fee": "200",
         "jackpotRate": "100",
         "streakRate": "50",
-        "minBet": "10000000000000",
+        "minBet": "10000000000000000",
         "maxBet": "10000000000000000000"
     },
     "Scratch69": {
